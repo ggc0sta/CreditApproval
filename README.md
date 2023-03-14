@@ -4,4 +4,4 @@ The purpose of this project is to develop a classification model to predict if p
 
 The data set chosen for this project was the Credit Card Approval Prediction, from the public data source Kaggle and can be downloaded in the following URL: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/download?datasetVersionNumber=3
 
-Please refer to the html file in this folder to see the code development.
+Please refer to the ipynb or pdf file in this folder to see the code development.
