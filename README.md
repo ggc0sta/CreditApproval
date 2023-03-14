@@ -1,4 +1,4 @@
-# CreditApproval
+# Credit Approval
 
 The purpose of this project is to develop a classification model to predict if prospective clients will repay their debt based on their profile and payment history. The model would function by taking a set of the borrower’s features as inputs and predicting whether the loan will be repaid or not as an output.
 
